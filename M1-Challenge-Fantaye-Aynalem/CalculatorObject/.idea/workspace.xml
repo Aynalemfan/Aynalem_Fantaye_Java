@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78768af6-f2ee-4c19-9775-527700617890" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/CalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConverterInterface/src/test/java/com/company/ConverterIfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConverterInterface/src/test/java/com/company/ConverterSwitchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/src/main/java/com/company/factory/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/src/main/java/com/company/pointofsale/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/src/main/java/com/company/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/src/main/java/com/company/Constable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/src/main/java/com/company/Farmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/src/main/java/com/company/SuperPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/src/main/java/com/company/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/src/test/java/com/company/ConstableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/src/test/java/com/company/FarmerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/src/test/java/com/company/SuperPersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPGInheritance/src/test/java/com/company/WarriorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConverterInterface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterSwitch.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BRmDunPdg3Yj4yHg1O9IenvpZG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTest">
+    <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CalculatorApp" />
+      <module name="CalculatorObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.shouldReturnAdditionOfTwoDoubles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldReturnAdditionOfTwoDoubles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.shouldReturnDivisionOfTwoDoubles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldReturnDivisionOfTwoDoubles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.shouldReturnMultiplicationOfTwoDoubles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldReturnMultiplicationOfTwoDoubles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.shouldReturnAdditionOfTwoDoubles" />
+        <item itemvalue="Application.CalculatorApp" />
+        <item itemvalue="JUnit.CalculatorTest.shouldReturnDivisionOfTwoDoubles" />
+        <item itemvalue="JUnit.CalculatorTest.shouldReturnMultiplicationOfTwoDoubles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78768af6-f2ee-4c19-9775-527700617890" name="Changes" comment="" />
+      <created>1656877158207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656877158207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

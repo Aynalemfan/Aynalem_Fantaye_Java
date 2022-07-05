@@ -2,21 +2,37 @@ package com.company;
 
 public class ConverterApplication {
     public static void main(String[] args) {
-        Converter converter1 = new ConverterIf();
-        ConverterIf coverter4 = new ConverterIf();
-        ConverterIf converter3 = new ConverterIf();
-        Converter converter2 = new ConverterSwitch();
+        ConverterIf monthConverter = new ConverterIf();
+        ConverterSwitch dayConverter = new ConverterSwitch();
 
+        monthConverter.convertMonth(1);
+        System.out.println(monthConverter.convertMonth(0));
+        System.out.println(monthConverter.convertMonth(1));
+        System.out.println(monthConverter.convertMonth(2));
+        System.out.println(monthConverter.convertMonth(3));
+        System.out.println(monthConverter.convertMonth(4));
+        System.out.println(monthConverter.convertMonth(5));
+        System.out.println(monthConverter.convertMonth(6));
+        System.out.println(monthConverter.convertMonth(7));
+        System.out.println(monthConverter.convertMonth(8));
+        System.out.println(monthConverter.convertMonth(9));
+        System.out.println(monthConverter.convertMonth(10));
+        System.out.println(monthConverter.convertMonth(11));
+        System.out.println(monthConverter.convertMonth(12));
+        System.out.println(monthConverter.convertMonth(13));
 
-        converter1.convertMonth(1);
-        converter1.convertMonth(1);
-        System.out.println(converter1.convertMonth(1));
-        System.out.println(converter1.convertDay(1));
-        // call convertDay
+        System.out.println("");
 
-//        convert = converter2;
-        System.out.println(converter2.convertMonth(1));
-        System.out.println(converter2.convertDay(1));
+        dayConverter.convertDay(1);
+        System.out.println(dayConverter.convertDay(0));
+        System.out.println(dayConverter.convertDay(1));
+        System.out.println(dayConverter.convertDay(2));
+        System.out.println(dayConverter.convertDay(3));
+        System.out.println(dayConverter.convertDay(4));
+        System.out.println(dayConverter.convertDay(5));
+        System.out.println(dayConverter.convertDay(6));
+        System.out.println(dayConverter.convertDay(7));
+        System.out.println(dayConverter.convertDay(8));
 
     }
 }
